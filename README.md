@@ -14,6 +14,10 @@
 <a href="https://www.mongodb.com/">![-mongodb](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)</a>
 <a href="https://www.postgresql.org/">![-postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)</a>
 
+![-css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![-html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+<a href="https://aws.amazon.com/">![-aws](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)</a>
+
 <!--
 **hieungo89/hieungo89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
