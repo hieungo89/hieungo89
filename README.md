@@ -6,6 +6,8 @@
 
 📍Based in Santa Clara, CA
 
+Click <a href="https://portfolio-hieungo89.vercel.app/">HERE</a> to view my portfolio!
+
 ### Languages & Tools
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Introduction">![-javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black)</a>
 <a href="https://reactjs.org/">![-react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)</a>
