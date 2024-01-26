@@ -4,7 +4,7 @@
 Full-Stack Software Engineer with 1-year expertise in frontend and backend development using Javascript, React, HTML, CSS, Express, Postgres, and MongoDB. Passionate about making a difference in people's lives and eager to contribute to improving the well-being of others.
 
 ### Projects:
-- 👯 I’m currently collaborating with people in Code for San Francisco on Project Compass, which is an open-sourced project that helps school case managers to have an online webpage to help manage their students and paraprofessionals. See more on their GitHub page https://github.com/sfbrigade/compass
+- 👯 I’m currently collaborating with people in SF Civic Tech on Project Compass, which is an open-sourced project that helps school case managers to have an online webpage to help manage their students and paraprofessionals. See more on their GitHub page https://github.com/sfbrigade/compass
 
 - 🎉 I recently rebuilt and deployed my Health Tracker web app with Next.js.
 - 🥅 I’m currently planning two projects to work on: My Thankful Journal and Personal Movies List.
