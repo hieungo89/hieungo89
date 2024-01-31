@@ -13,7 +13,7 @@ Full-Stack Software Engineer with 1-year expertise in frontend and backend devel
 ### How to reach me 📫 <br/>
 - <a href="https://hieungo.vercel.app">![Portfolio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)</a>
 - <a href="https://www.linkedin.com/in/hieungo89">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-- <a href="mailto:hieu.ngo12989@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+- <a href="mailto:hieutngo1221@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
 
 📍Based in Santa Clara, CA
 
